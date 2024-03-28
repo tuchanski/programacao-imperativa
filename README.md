@@ -4,7 +4,7 @@ Repositório para armazenar exercícios da matéria "Programação Imperativa", 
 ## Tecnologias
 
 - Linguagem: C
-- IDEs: Visual Studio Code
+- IDE: Visual Studio Code
 
 ## Tópicos
 
