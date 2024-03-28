@@ -2,7 +2,7 @@
 
 int main()
 {
-    /* Escreva um programa em C que leia do teclado um vetor de oito elementos reais,
+    /* 3 - Escreva um programa em C que leia do teclado um vetor de oito elementos reais,
     imprima esse vetor e, depois, imprima a soma dos elementos equidistantes, isto é,
     imprime a soma do primeiro com último, depois a soma do segundo com o penúltimo,
     e assim por diante. */

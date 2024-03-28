@@ -3,7 +3,7 @@
 int main()
 {
     /*
-    Considere uma empresa comercial que vende os seus produtos de segunda-feira a sábado. Para cada dia
+    1 - Considere uma empresa comercial que vende os seus produtos de segunda-feira a sábado. Para cada dia
     da semana, a empresa arrecada um valor (em reais) com as vendas, denominado de faturamento.
     Escreva um programa que registre o faturamento de cada dia de uma semana e, então, determine o
     seguinte:

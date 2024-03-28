@@ -4,7 +4,7 @@ int main()
 {
 
     /*
-    Escreva um programa em C que calcule e retorne o n-ésimo termo da Sequência de Fibonacci, sendo n
+    TDE1 - Escreva um programa em C que calcule e retorne o n-ésimo termo da Sequência de Fibonacci, sendo n
     um valor inteiro fornecido pelo usuário via teclado. Embora a  definicao matemática seja recursiva, deve
     ser implementada uma versão iterativa da função, isto é, com uso de comando de repetição.
     */

@@ -3,7 +3,7 @@
 
 int main()
 {
-    /*Escreva um programa em C que leia do teclado uma sequência qualquer de valores
+    /*6 - Escreva um programa em C que leia do teclado uma sequência qualquer de valores
     inteiros e armazene-a em um vetor v. Em seguida, leia do teclado um valor inteiro x e
     procure esse valor no vetor v. O programa deve informar se x foi ou não encontrado em
     v. Se encontrado, deve informar o índice do vetor onde x se encontra.*/

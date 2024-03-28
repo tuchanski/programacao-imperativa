@@ -3,7 +3,7 @@
 
 int main()
 {
-    /* Escreva um programa em C que calcule a média e o desvio padrão das notas de
+    /*9 - Escreva um programa em C que calcule a média e o desvio padrão das notas de
     uma turma de, no máximo, 50 estudantes. Para cada estudante, há uma nota entre 0 e
     10, com apenas uma casa decimal.
     */

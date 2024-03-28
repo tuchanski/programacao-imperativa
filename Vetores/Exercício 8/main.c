@@ -2,7 +2,7 @@
 
 int main()
 {
-    /* Escreva um programa em C que leia do teclado uma sequência qualquer de valores
+    /*8 - Escreva um programa em C que leia do teclado uma sequência qualquer de valores
     inteiros distintos entre si e armazene-a em um vetor. Para cada valor da sequência
     fornecido pelo usuário, o programa deve verificar se, de fato, é um valor inédito antes
     de inseri-lo no vetor. Caso não seja, o programa deve rejeitar o valor fornecido. */

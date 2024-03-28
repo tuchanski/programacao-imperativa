@@ -2,7 +2,7 @@
 
 int main()
 {
-    /*Escreva um programa em C que leia do teclado dois vetores (A e B) com cinco
+    /*2 - Escreva um programa em C que leia do teclado dois vetores (A e B) com cinco
     elementos inteiros cada um, gere um terceiro vetor (S) com a soma dos
     correspondentes elementos dos dois primeiros ( S[i] = A[i] + B[i] ) e
     imprima os três vetores.*/

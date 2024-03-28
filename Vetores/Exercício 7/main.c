@@ -2,7 +2,7 @@
 
 int main()
 {
-    /* Escreva um programa em C que leia do teclado uma sequência qualquer de valores
+    /* 7 - Escreva um programa em C que leia do teclado uma sequência qualquer de valores
     inteiros e armazene-a em um vetor v. Em seguida, gere um novo vetor de inteiros com
     a mesma capacidade e os mesmos elementos de v, porém em ordem crescente. */
 
