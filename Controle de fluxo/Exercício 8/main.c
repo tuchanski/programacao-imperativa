@@ -17,7 +17,8 @@ int main()
     if (i**2) + 1 ≥ 1.45 :
     i = i + 0,20;
     else
-    break*/
+    break
+    */
 
     double i = 10.0;
     while (i > 0){

@@ -14,7 +14,8 @@ int main()
     while R <= 6:
     VOLUME = 4/3 * PI * (R**3)
     print(R, VOLUME)
-    R = R + 2 */
+    R = R + 2 
+    */
 
     const float pi = 3.1416;
     int r = 0;

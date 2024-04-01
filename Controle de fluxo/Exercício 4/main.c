@@ -14,7 +14,7 @@ int main()
     deve retornar o código 15 e encerrar.
     IMPORTANTE: Os programas não podem conter o comando break, nem o
     comando goto. Também, não podem conter um comando return dentro de um
-    bloco de repetição. Além disso, não podem usar array. */
+    bloco de repetição. Além disso, não podem usar array. - */
 
     int limite_inferior, limite_superior, tentativa;
     tentativa = 0;

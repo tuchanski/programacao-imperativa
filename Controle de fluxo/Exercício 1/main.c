@@ -4,7 +4,7 @@ int main()
 {
     /*1 - Escreva um programa na linguagem C que, dados dois números inteiros distintos
     fornecidos pelo usuário (via teclado), imprima-os em ordem crescente. 
-    Obs: o programa deve certificar-se de que os dois números sejam distintos */
+    Obs: o programa deve certificar-se de que os dois números sejam distintos. */
 
     int valor_a, valor_b;
     

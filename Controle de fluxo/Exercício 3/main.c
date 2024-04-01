@@ -5,7 +5,7 @@ int main()
     /*3 - Elabore um programa em C para simular uma calculadora com as quatro operações
     básicas (adição, subtração, multiplicação e divisão), usando a estrutura switch. O programa
     deve receber, como entrada, dois operandos (double) e um operador (char). Como saída, o
-    programa deve exibir o resultado da aplicação do operador sobre os dois operandos. */
+    programa deve exibir o resultado da aplicação do operador sobre os dois operandos.. */
 
     char operacao;
     double valor_1, valor_2, resultado;

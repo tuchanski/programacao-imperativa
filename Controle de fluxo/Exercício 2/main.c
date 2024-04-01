@@ -4,7 +4,7 @@ int main()
 {
     /*2 - Escreva um programa na linguagem C que, dadas três letras distintas fornecidas pelo
     usuário (via teclado), imprima-as em ordem alfabética. Obs: o programa deve certificar-se de
-    que as três letras sejam distintas */
+    que as três letras sejam distintas. */
 
     char a, b, c;
 
