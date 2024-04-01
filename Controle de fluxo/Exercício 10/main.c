@@ -3,7 +3,7 @@
 
 int main()
 {
-    /* 10 - Escreva um programa em C para calcular o fatorial de um número N fornecido
+    /*10 - Escreva um programa em C para calcular o fatorial de um número N fornecido
     pelo usuário. Use a estrutura for para gerar a sequência de termos. 
     3! = 3 x 2 x 1 = 6*/
 
