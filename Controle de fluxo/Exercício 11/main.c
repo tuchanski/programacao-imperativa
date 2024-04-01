@@ -22,7 +22,7 @@ int main()
     }
     while (contador <= numero_termos);
 
-    printf("Somatoria de %d termos: %d", numero_termos, somatoria);
+    printf("Somatoria de %d termos: %f", numero_termos, somatoria);
 
     return 0;
 }
