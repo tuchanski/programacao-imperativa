@@ -1,5 +1,5 @@
 
-# Programação Imperativa
+# Programação Imperativa 🧑‍💻
 
 Este repositório contém exercícios práticos da disciplina **Programação Imperativa** oferecida pela PUCPR. Cada exercício abrange um tópico central da programação em linguagem C, com o objetivo de reforçar os conceitos fundamentais e aprimorar as habilidades de desenvolvimento imperativo.
 
