@@ -1,33 +1,63 @@
+
 # Programação Imperativa
-Repositório para armazenar exercícios da matéria "Programação Imperativa", da PUCPR.
 
-## Tecnologias
+Este repositório contém exercícios práticos da disciplina **Programação Imperativa** oferecida pela PUCPR. Cada exercício abrange um tópico central da programação em linguagem C, com o objetivo de reforçar os conceitos fundamentais e aprimorar as habilidades de desenvolvimento imperativo.
 
-- Linguagem: C
-- IDE: Visual Studio Code
+## Estrutura do Repositório
 
-## Tópicos
+- Os exercícios estão organizados dentro de diretórios, onde cada diretório corresponde a um tópico estudado.
 
-Esta matéria contemplará os seguintes tópicos: 
+```plaintext
+programacao-imperativa/
+│
+├── Constantes e enumerados/
+│   └── Exercício 1
+        └── main.c
+│
+├── Controle de fluxo/
+│   └── Exercício 1
+        └── main.c
+│
+├── Vetores/
+│   └── Exercício 1
+        └── main.c
+│
+└── README.md
+```
 
-1. Variáveis, tipos, memória
-2. Entrada de dados
+## Como Usar
+
+1. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/tuchanski/programacao-imperativa.git
+   ```
+
+2. Navegue até a pasta do tópico ou exercício desejado.
+3. Compile e execute o código usando um compilador C, como `gcc`:
+
+   ```bash
+   gcc main.c -o ex1
+   ./ex1
+   ```
+
+## Tópicos Cobertos
+
+1. Variáveis, Tipos e Memória
+2. Entrada de Dados
 3. Controle de Fluxo
-4. Constantes e enumerados
+4. Constantes e Enumerados
 5. Vetores
 6. Strings
-7. Tipos compostos
+7. Tipos Compostos
 8. Funções
 9. Recursividade
-10. Alocação dinâmica
+10. Alocação Dinâmica
 11. Listas
-12. Compilação separada
-13. Argumentos de programa
+12. Compilação Separada
+13. Argumentos de Programa
 14. Matrizes
-15. Operações em nível binário
 
-## Atenção
+## Tecnologias Utilizadas
 
-Exercícios serão adicionados conforme o decorrer do semestre.
-
-- março, 2024
+- Linguagem de Programação: **C**
