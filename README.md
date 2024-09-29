@@ -61,3 +61,7 @@ programacao-imperativa/
 ## Tecnologias Utilizadas
 
 - Linguagem de Programação: **C**
+
+## Autor
+
+- [Guilherme Tuchanski Rocha | GitHub](https://github.com/tuchanski)
